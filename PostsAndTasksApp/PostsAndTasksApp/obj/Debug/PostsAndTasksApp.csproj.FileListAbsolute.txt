@@ -1,0 +1,12 @@
+D:\faculta\semIII\2_map\c#\PostsAndTasksApp\PostsAndTasksApp\bin\Debug\PostsAndTasksApp.exe.config
+D:\faculta\semIII\2_map\c#\PostsAndTasksApp\PostsAndTasksApp\bin\Debug\PostsAndTasksApp.exe
+D:\faculta\semIII\2_map\c#\PostsAndTasksApp\PostsAndTasksApp\bin\Debug\PostsAndTasksApp.pdb
+D:\faculta\semIII\2_map\c#\PostsAndTasksApp\PostsAndTasksApp\obj\Debug\PostsAndTasksApp.Properties.Resources.resources
+D:\faculta\semIII\2_map\c#\PostsAndTasksApp\PostsAndTasksApp\obj\Debug\PostsAndTasksApp.csproj.GenerateResource.Cache
+D:\faculta\semIII\2_map\c#\PostsAndTasksApp\PostsAndTasksApp\obj\Debug\PostsAndTasksApp.exe
+D:\faculta\semIII\2_map\c#\PostsAndTasksApp\PostsAndTasksApp\obj\Debug\PostsAndTasksApp.pdb
+D:\faculta\semIII\2_map\c#\PostsAndTasksApp\PostsAndTasksApp\obj\Debug\PostsAndTasksApp.csprojResolveAssemblyReference.cache
+D:\faculta\semIII\2_map\c#\PostsAndTasksApp\PostsAndTasksApp\obj\Debug\PostsAndTasksApp.TasksWin.resources
+D:\faculta\semIII\2_map\c#\PostsAndTasksApp\PostsAndTasksApp\obj\Debug\PostsAndTasksApp.PositionsWin.resources
+D:\faculta\semIII\2_map\c#\PostsAndTasksApp\PostsAndTasksApp\obj\Debug\PostsAndTasksApp.JobDescriptionWin.resources
+D:\faculta\semIII\2_map\c#\PostsAndTasksApp\PostsAndTasksApp\obj\Debug\PostsAndTasksApp.OtherWindow.resources
